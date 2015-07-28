@@ -1,0 +1,14 @@
+*************************************Printing the Symbol Table***************************************
+
+
+     LEXEME_NAME     |         TOKEN_NAME  |           SCOPE    |     DATA_TYPE   |     SIZE   |    OFFSET  |   LINE NUMBER
+
+
+                  m  |                TK_ID |            _add |            MASS |          1 |          2 |          6 | 
+                  t  |                TK_ID |            _add |            TIME |          1 |          3 |          7 | 
+                   a |                TK_ID |            _add |            MASS |          1 |          0 |          4 | 
+                   b |                TK_ID |            _add |            MASS |          1 |          1 |          4 | 
+                  m  |                TK_ID |           start |            MASS |          1 |          0 |          2 | 
+                  t  |                TK_ID |           start |            TIME |          1 |          1 |          3 | 
+
+

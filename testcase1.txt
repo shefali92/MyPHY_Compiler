@@ -1,0 +1,7 @@
+start ( )
+work w ;
+pow p ;
+ip : w ;
+p = w ;
+op : p ;
+stop

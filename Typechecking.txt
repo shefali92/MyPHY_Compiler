@@ -1,0 +1,34 @@
+Group No. 12 Team 1
+Shefali Garg 2011B2A7810P
+Rashi Khandelwal 2011B5A7635P
+
+
+
+1) The type of an identifier is the type appearing while declaring the variable.
+
+2) The type of TK_NUMBERS is 	INT.
+
+3) Types of other datatypes:
+ 	The type of TK_MASS is MASS.
+ 	The type of TK_FORCE is FORCE.
+ 	The type of TK_LEN is LEN.
+ 	The type of TK_TIME is TIME.
+ 	The type of TK_POW is POW.
+ 	The type of TK_DISP is DISP.
+ 	The type of TK_WORK is WORK.
+ 	
+4) Type of expression : The type of a simple expression (say E) of the form expression(say E1) <operator> Expression(say E2) is
+ 
+    MASS, if one expression is MASS and the other is MASS/INT and the operator is arithmetic operator.
+    TIME, if one expression is MASS and the other is TIME/INT and the operator is arithmetic operator.
+    LEN, if one expression is MASS and the other is LEN/INT and the operator is arithmetic operator.
+    FORCE, if one expression is MASS and the other is FORCE/INT and the operator is arithmetic operator.
+    WORK, if one expression is MASS and the other is WORK/INT and the operator is arithmetic operator.
+    POW, if one expression is MASS and the other is POW/INT and the operator is arithmetic operator.
+    DISP, if one expression is MASS and the other is DISP/INT and the operator is arithmetic operator.
+         
+5) There will be an ERROR, if the above rules do not derive the type of E appropriately.
+
+6) The type of an identifier or an expression is computed using the symbol table.
+
+

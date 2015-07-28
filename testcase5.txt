@@ -1,0 +1,9 @@
+start()
+mass x ;
+ip : x ;
+mass a ;
+a = x ;
+# printing
+op : a ;
+op : x ;
+stop

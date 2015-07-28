@@ -1,0 +1,23 @@
+start ( )
+mass m ; 
+time t ;
+rett mass _add ( mass a , mass b )
+{
+	mass m ;
+	time t ;
+	t = m + 2 ;
+	return m ;
+}
+quit
+rett mass _sum ( mass a , mass b )
+{
+	mass m ;
+	time t ;
+	t = m + 2 ;
+	return m ;
+}
+quit
+
+
+call m = _sum ( m ) ; 
+stop

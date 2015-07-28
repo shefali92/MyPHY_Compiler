@@ -1,0 +1,7 @@
+start ( )
+work w ;
+pow p ;
+time t ;
+w = p * t * 5 ;
+op : w ;
+stop

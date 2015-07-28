@@ -1,0 +1,24 @@
+Group No. 12 Team 1
+Shefali Garg 2011B2A7810P
+Rashi Khandelwal 2011B5A7635P
+
+
+1 ) An identifier cannot be declared multiple times in the same scope.
+
+2) An identifier must be declared before its use.
+
+3) The number and type of actual and formal parameters should be same while invoking a function.
+
+5) The value returned by a function should match with the function return type.
+
+4) The parameters being returned by a function must be assigned a value.  The value should match with the function return type.
+
+5) An if/else statement must have the expression of boolean type.
+
+6) Function overloading is not allowed.
+
+7) The function cannot be invoked recursively.
+
+8) The right hand side expression of an assignment statement must be of the same type as that of the left hand side identifier.
+
+9) The comments will be ignored throughout.

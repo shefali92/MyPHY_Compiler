@@ -1,0 +1,14 @@
+start()
+mass x ;
+force a ( 1 , 2 , 4 ) ;
+x = 2 ;
+if ( x != 0 )
+{
+x = a / 3 * a ;
+}
+else
+{
+x = 0 ;
+}
+endif
+stop
